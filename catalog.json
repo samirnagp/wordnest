@@ -1,0 +1,142 @@
+[
+  {
+    "id": "bank-account-closure-letter",
+    "title": "Bank Account Closure Letter",
+    "category": "Bank Letters",
+    "description": "Formal request to close a savings or current account, with balance transfer and enclosure list.",
+    "tags": [
+      "bank",
+      "account closure",
+      "letter",
+      "savings"
+    ],
+    "featured": true,
+    "file": "templates/bank-account-closure-letter.docx",
+    "pages": 1,
+    "added": "2026-10-23"
+  },
+  {
+    "id": "bank-cheque-book-request",
+    "title": "Cheque Book Request Letter",
+    "category": "Bank Letters",
+    "description": "Short, polite letter asking your branch to issue a new cheque book.",
+    "tags": [
+      "bank",
+      "cheque book",
+      "letter"
+    ],
+    "featured": false,
+    "file": "templates/bank-cheque-book-request.docx",
+    "pages": 1,
+    "added": "2026-10-23"
+  },
+  {
+    "id": "bank-address-change-request",
+    "title": "Bank Address Change Request",
+    "category": "Bank Letters",
+    "description": "Ask your bank to update your address and contact details, with the usual proof documents.",
+    "tags": [
+      "bank",
+      "address change",
+      "kyc",
+      "letter"
+    ],
+    "featured": false,
+    "file": "templates/bank-address-change-request.docx",
+    "pages": 1,
+    "added": "2026-10-23"
+  },
+  {
+    "id": "modern-resume",
+    "title": "Modern Resume",
+    "category": "Resumes",
+    "description": "Clean one-page resume with accent colour, experience bullets, education and skills.",
+    "tags": [
+      "resume",
+      "cv",
+      "modern",
+      "job"
+    ],
+    "featured": true,
+    "file": "templates/modern-resume.docx",
+    "pages": 1,
+    "added": "2026-10-23"
+  },
+  {
+    "id": "classic-resume",
+    "title": "Classic Resume",
+    "category": "Resumes",
+    "description": "Traditional centred layout in black and white that suits every industry and prints well.",
+    "tags": [
+      "resume",
+      "cv",
+      "classic",
+      "ats"
+    ],
+    "featured": false,
+    "file": "templates/classic-resume.docx",
+    "pages": 1,
+    "added": "2026-10-23"
+  },
+  {
+    "id": "business-report",
+    "title": "Business Report",
+    "category": "Reports",
+    "description": "Cover page, executive summary, findings table, recommendations and appendix.",
+    "tags": [
+      "report",
+      "business",
+      "cover page"
+    ],
+    "featured": true,
+    "file": "templates/business-report.docx",
+    "pages": 2,
+    "added": "2026-10-23"
+  },
+  {
+    "id": "project-status-report",
+    "title": "Project Status Report",
+    "category": "Reports",
+    "description": "One-page weekly or monthly update with milestones, risks, budget and next steps.",
+    "tags": [
+      "report",
+      "project",
+      "status"
+    ],
+    "featured": false,
+    "file": "templates/project-status-report.docx",
+    "pages": 1,
+    "added": "2026-10-23"
+  },
+  {
+    "id": "simple-invoice",
+    "title": "Simple Invoice",
+    "category": "Invoices",
+    "description": "Freelancer and small business invoice with itemised table, totals and payment details.",
+    "tags": [
+      "invoice",
+      "billing",
+      "freelancer"
+    ],
+    "featured": true,
+    "file": "templates/simple-invoice.docx",
+    "pages": 1,
+    "added": "2026-10-23"
+  },
+  {
+    "id": "gst-tax-invoice",
+    "title": "GST Tax Invoice (India)",
+    "category": "Invoices",
+    "description": "GST-ready invoice with GSTIN, HSN/SAC, tax columns, amount in words and signature block.",
+    "tags": [
+      "invoice",
+      "gst",
+      "india",
+      "tax"
+    ],
+    "featured": false,
+    "file": "templates/gst-tax-invoice.docx",
+    "pages": 1,
+    "added": "2026-10-23"
+  }
+]
