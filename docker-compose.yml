@@ -1,0 +1,19 @@
+services:
+  wordnest:
+    build: .
+    image: wordnest:latest
+    container_name: wordnest
+    ports:
+      - "8000:8000"
+    env_file:
+      - .env
+    restart: unless-stopped
+    volumes:
+      - wordnest-data:/app/data       # download counters (SQLite)
+      - ./public:/app/public          # catalog, templates and previews (edit on the host)
+    cap_drop:
+      - ALL
+    security_opt:
+      - no-new-privileges:true
+volumes:
+  wordnest-data:
